@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-8fa68a8ce45641420a080920fccd9139aba80613
+redis:7-alpine
